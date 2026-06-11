@@ -1,185 +1,225 @@
-<!--
-**AhmedHassanGondal/AhmedHassanGondal** is a ✨ _special_ ✨ repository because its `README.md`
-(this file) appears on your GitHub profile.
--->
+<div align="center">
 
-<h1 align="center">Hi there, I'm Ahmed 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ahmed%20Hassan%20Gondal&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20MLOps&descSize=20&descColor=ffffffcc&descAlignY=57&fontAlign=Y50&font=Poppins" width="100%"/>
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=600&lines=Data+Scientist+%F0%9F%93%8A;Python+%7C+ML+%7C+Deep+Learning+%7C+MLOps;End-to-End+ML%3A+data+%E2%86%92+model+%E2%86%92+API+%E2%86%92+Docker;Targeting+DS+roles+in+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=820&height=60&lines=%F0%9F%91%8B+Hi!+I'm+Ahmed+Hassan+Gondal;%F0%9F%93%8A+Data+Scientist+%26+ML+Engineer;%F0%9F%A7%A0+Deep+Learning+%C2%B7+Computer+Vision+%C2%B7+NLP;%F0%9F%9A%80+End-to-End+ML%3A+data+%E2%86%92+model+%E2%86%92+API+%E2%86%92+Docker;%F0%9F%87%A9%F0%9F%87%AA+Targeting+Data+Scientist+roles+in+Germany;%E2%98%95+Turning+Data+into+Decisions" alt="Typing SVG"/>
+</a>
+
+<br/><br/>
+
+<!-- Social Badges — Skillicons style -->
+<a href="https://linkedin.com/in/ahmedhassangondal">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="LinkedIn" title="LinkedIn"/>
+</a>
+<a href="mailto:gondalahmed135@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="60" alt="Gmail" title="Gmail"/>
+</a>
+<a href="https://github.com/AhmedHassanGondal">
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" title="GitHub"/>
+</a>
+<a href="https://ahmedhassangondal.github.io/">
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="Portfolio" title="Portfolio"/>
+</a>
+
+<br/><br/><br/>
+
+<div align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="40" height="40" alt="Fire"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/AhmedHassanGondal">
+    <img src="https://count.getloli.com/get/@AhmedHassanGondal?theme=moebooru" alt="Animated Profile Views"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmedHassanGondal&color=2196F3&style=flat-square" alt="Profile Views" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-%2300C853?style=flat-square" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Target-Data%20Scientist%20%C2%B7%20Germany%20%F0%9F%87%A9%F0%9F%87%AA-2196F3?style=flat-square" />
-</p>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="40" height="40" alt="Fire"/>
+</div>
 
-<hr>
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+</div>
 
-<h2 align="center">👨‍💻 Whoami</h2>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="40" height="40" alt="Man Technologist"/> About Me
 
-<p align="center">
-  <samp>
-    Data scientist who likes shipping models, not just training them. I turn messy
-    data into decisions — and wrap the result in a tested, reproducible, deployable
-    package (sklearn pipelines, FastAPI, Streamlit, Docker, CI). My work spans
-    tabular ML &amp; credit risk, computer vision, generative models, and NLP/RAG.
-  </samp>
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=40&lines=class+DataScientist:;def+mission(self):+return+%22Turn+data+into+decisions+%E2%AD%90%22" alt="Typing SVG"/>
+  </a>
+</div>
 
-<p align="center">
-  <samp>
-    🎓 &nbsp;BS in Computer Science<br>
-    🔭 &nbsp;Building: production-style ML projects — credit-risk scoring, RAG over documents, forecasting<br>
-    🌱 &nbsp;Deepening: MLOps, cloud data services (AWS/GCP), and LLM fine-tuning<br>
-    🎯 &nbsp;Open to: <b>Data Scientist / ML Engineer</b> roles in <b>Germany 🇩🇪</b> (relocation-ready)<br>
-    💬 &nbsp;Ask me about: Python, ML, data analysis, computer vision, or model deployment<br>
-    ⚡ &nbsp;Fun fact: I treat datasets like detective cases — there's always a hidden pattern waiting to be cracked!
-  </samp>
-</p>
-
-<hr>
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🏦 <a href="https://github.com/AhmedHassanGondal/german-credit-risk-scoring">German Credit Risk Scoring</a></h3>
-      <p><samp>Cost-sensitive probability-of-default model on the UCI German Credit data. End-to-end: sklearn pipeline, business-cost-optimal threshold, SHAP explainability, <b>FastAPI</b> + <b>Streamlit</b> serving, <b>tests + CI + Docker</b>.</samp></p>
-      <p>
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="350" alt="Coding gif"/>
     </td>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/AhmedHassanGondal/MAE-Image-Reconstruction">MAE Image Reconstruction</a></h3>
-      <p><samp>PyTorch implementation of <b>Masked Autoencoders</b> (ViT encoder + lightweight decoder) for self-supervised image reconstruction at a 75% masking ratio, with mixed-precision training.</samp></p>
+    <td width="50%">
+      <h3>🌟 Welcome to my digital workspace!</h3>
       <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/ViT-5C3EE8?style=flat-square" />
+        I'm a <b>Data Scientist</b> & <b>ML Engineer</b> who likes shipping models,
+        not just training them.<br>
+        🎓 BS in Computer Science · 🎯 open to <b>Data Scientist / ML roles in Germany 🇩🇪</b> (relocation-ready).
       </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎨 <a href="https://github.com/AhmedHassanGondal/Generative-AI-Image-Translation-and-GANs">Generative AI &amp; GANs</a></h3>
-      <p><samp>A modular generative toolkit — <b>DCGAN, WGAN-GP, Pix2Pix, CycleGAN</b> — for image generation and translation, with a clean trainer/model/data architecture.</samp></p>
-      <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/GANs-FF6F00?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📄 <a href="https://github.com/AhmedHassanGondal/papermind">PaperMind (RAG)</a></h3>
-      <p><samp>Chat-with-your-PDFs <b>retrieval-augmented generation</b> app — ingestion, FAISS vector search, and an LLM answer chain behind a Gradio UI.</samp></p>
-      <p>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
-        <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/AhmedHassanGondal/Retail-Price-Intelligence">Retail Price Intelligence</a></h3>
-      <p><samp>Price-monitoring pipeline: multi-retailer scrapers → cleaning &amp; fuzzy product matching → analysis → an interactive <b>Streamlit</b> dashboard.</samp></p>
-      <p>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📝 <a href="https://github.com/AhmedHassanGondal/neural-storyteller-image-captioning">Neural Image Captioning</a></h3>
-      <p><samp>Multimodal image captioning — a <b>ResNet50</b> visual encoder paired with an <b>LSTM</b> seq2seq decoder that generates natural-language descriptions of images.</samp></p>
-      <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/NLP-013243?style=flat-square" />
-      </p>
+      <p><b>✨ What I do:</b></p>
+      <ul>
+        <li>📊 Build end-to-end ML pipelines: data → model → API → Docker</li>
+        <li>🧠 Deep learning for computer vision (MAE, GANs) & NLP/RAG</li>
+        <li>🏦 Cost-sensitive, explainable modelling (credit risk, SHAP)</li>
+        <li>🚀 Deploy with FastAPI, Streamlit & CI — tested and reproducible</li>
+      </ul>
+      <p><i>"I treat datasets like detective cases — there's always a hidden pattern 🔍"</i></p>
     </td>
   </tr>
 </table>
 
-<p align="center"><a href="https://github.com/AhmedHassanGondal?tab=repositories"><b>→ Browse all repositories</b></a></p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</div>
 
-<hr>
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<h2 align="center">🔧 Tools of Trade</h2>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="40" height="40" alt="Wrench"/> Tech Stack
 
-<h4 align="center">Languages</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;&nbsp;
-</p>
+<div align="center">
 
-<h4 align="center">Data Science &amp; Machine Learning</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=keras&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Matplotlib-%2311557C.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Seaborn-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
-</p>
+### 💻 Languages
+<br/>
+<img src="https://skillicons.dev/icons?i=python,r,cpp,c,mysql&perline=10" height="60" alt="Languages"/>
 
-<h4 align="center">Deployment &amp; MLOps</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?&style=for-the-badge&logo=streamlit&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?&style=for-the-badge&logo=github-actions&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?&style=for-the-badge&logo=power-bi&logoColor=black" />&nbsp;&nbsp;
-</p>
+<br/><br/>
 
-<h4 align="center">Tools &amp; Environment</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />&nbsp;&nbsp;
-</p>
+### 🤖 Machine Learning & Deep Learning
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=10" height="60" alt="ML/DL"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/SHAP-1A1B27?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 
-<hr>
+<br/><br/>
 
-<h2 align="center">📊 GitHub Stats</h2>
+### ⚙️ Deployment & MLOps
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,githubactions&perline=10" height="60" alt="MLOps"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedHassanGondal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="47%" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=AhmedHassanGondal&theme=tokyonight&hide_border=true" width="47%" />
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHassanGondal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="47%" />
-</p>
+### 🌐 Web & Tools
+<br/>
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,tailwind,vite,github,vscode,linux&perline=10" height="60" alt="Web & Tools"/>
 
-<hr>
+</div>
 
-<h2 align="center">📫 Reach Me On</h2>
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/ahmedhassangondal">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:gondalahmed135@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://github.com/AhmedHassanGondal">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40" height="40" alt="Rocket"/> Featured Projects
 
-<hr>
+<div align="center">
 
-<p align="center"><samp>💙 Thanks for visiting — feel free to explore my repositories below!</samp></p>
+| &nbsp; | Project | Description | Stack |
+|:---:|:---|:---|:---|
+| 🏦 | **[German Credit Risk Scoring](https://github.com/AhmedHassanGondal/german-credit-risk-scoring)** | Cost-sensitive probability-of-default model with explainability & full serving | `scikit-learn` `FastAPI` `Streamlit` `Docker` |
+| 🧠 | **[MAE Image Reconstruction](https://github.com/AhmedHassanGondal/MAE-Image-Reconstruction)** | Masked Autoencoder (ViT) for self-supervised image reconstruction | `PyTorch` `ViT` |
+| 🎨 | **[Generative AI & GANs](https://github.com/AhmedHassanGondal/Generative-AI-Image-Translation-and-GANs)** | DCGAN · WGAN-GP · Pix2Pix · CycleGAN image generation & translation | `PyTorch` `GANs` |
+| 📄 | **[PaperMind (RAG)](https://github.com/AhmedHassanGondal/papermind)** | Chat-with-your-PDFs retrieval-augmented generation app | `LangChain` `FAISS` `Gradio` |
+| 🛒 | **[Retail Price Intelligence](https://github.com/AhmedHassanGondal/Retail-Price-Intelligence)** | Scrapers → fuzzy product matching → analytics dashboard | `Python` `Streamlit` |
+| 📝 | **[Neural Image Captioning](https://github.com/AhmedHassanGondal/neural-storyteller-image-captioning)** | ResNet50 encoder + LSTM decoder generating image captions | `PyTorch` `NLP` |
+
+</div>
+
+<div align="center"><a href="https://github.com/AhmedHassanGondal?tab=repositories"><b>→ Browse all repositories</b></a></div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="40" height="40" alt="Bar Chart"/> GitHub Analytics
+
+<div align="center">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=AhmedHassanGondal&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=adbac7&bg_color=1a1b26&rank_icon=github" alt="Overall Stats"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com/?user=AhmedHassanGondal&theme=tokyonight&hide_border=true&background=1a1b26&ring=58a6ff&fire=ff9900&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub Streak"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHassanGondal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=adbac7&bg_color=1a1b26" width="47%" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedHassanGondal&bg_color=1a1b26&color=58a6ff&line=58a6ff&point=ff9900&hide_border=true&custom_title=Ahmed's+Contribution+Graph&area=true&area_color=58a6ff&radius=6" width="100%" alt="Contribution Graph"/>
+
+</div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="40" height="40" alt="Trophy"/> GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AhmedHassanGondal&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=20&column=4&row=2" alt="Trophies"/>
+  </a>
+</div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="40" height="40" alt="Snake"/> Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedHassanGondal/AhmedHassanGondal/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedHassanGondal/AhmedHassanGondal/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/AhmedHassanGondal/AhmedHassanGondal/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
+  </picture>
+</div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40" height="40" alt="Handshake"/> Let's Connect & Collaborate
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ahmedhassangondal">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="65" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="mailto:gondalahmed135@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="65" alt="Gmail"/>
+</a>&nbsp;
+<a href="https://github.com/AhmedHassanGondal">
+  <img src="https://skillicons.dev/icons?i=github" height="65" alt="GitHub"/>
+</a>&nbsp;
+<a href="https://ahmedhassangondal.github.io/">
+  <img src="https://skillicons.dev/icons?i=html" height="65" alt="Portfolio"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=130&section=footer&animation=twinkling&font=Poppins" width="100%"/>
+
+<sub>
+  <b>⭐ Star some repos if you find them useful!</b><br/>
+  Made with ❤️ by <b>Ahmed Hassan Gondal</b>
+</sub>
+
+</div>
