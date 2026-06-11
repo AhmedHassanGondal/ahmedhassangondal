@@ -130,10 +130,10 @@
 | 🏦 | **[German Credit Risk Scoring](https://github.com/AhmedHassanGondal/german-credit-risk-scoring)** | Cost-sensitive probability-of-default model with explainability & full serving | `scikit-learn` `FastAPI` `Streamlit` `Docker` |
 | ⚡ | **[Energy Demand Forecasting](https://github.com/AhmedHassanGondal/energy-demand-forecasting)** | Day-ahead load forecasting, rolling-origin backtest, beats seasonal-naive by 26% | `scikit-learn` `FastAPI` `Docker` |
 | 📉 | **[Customer Churn + MLOps](https://github.com/AhmedHassanGondal/customer-churn-mlops)** | Telco churn with MLflow experiment tracking, model selection & serving | `scikit-learn` `MLflow` `FastAPI` `Docker` |
-| 🧠 | **[MAE Image Reconstruction](https://github.com/AhmedHassanGondal/MAE-Image-Reconstruction)** | Masked Autoencoder (ViT) for self-supervised image reconstruction | `PyTorch` `ViT` |
-| 🎨 | **[Generative AI & GANs](https://github.com/AhmedHassanGondal/Generative-AI-Image-Translation-and-GANs)** | DCGAN · WGAN-GP · Pix2Pix · CycleGAN image generation & translation | `PyTorch` `GANs` |
+| 🧠 | **[MAE Image Reconstruction](https://github.com/AhmedHassanGondal/mae-image-reconstruction)** | Masked Autoencoder (ViT) for self-supervised image reconstruction | `PyTorch` `ViT` |
+| 🎨 | **[Generative AI & GANs](https://github.com/AhmedHassanGondal/generative-ai-image-translation-and-gans)** | DCGAN · WGAN-GP · Pix2Pix · CycleGAN image generation & translation | `PyTorch` `GANs` |
 | 📄 | **[PaperMind (RAG)](https://github.com/AhmedHassanGondal/papermind)** | Chat-with-your-PDFs retrieval-augmented generation app | `LangChain` `FAISS` `Gradio` |
-| 🛒 | **[Retail Price Intelligence](https://github.com/AhmedHassanGondal/Retail-Price-Intelligence)** | Scrapers → fuzzy product matching → analytics dashboard | `Python` `Streamlit` |
+| 🛒 | **[Retail Price Intelligence](https://github.com/AhmedHassanGondal/retail-price-intelligence)** | Scrapers → fuzzy product matching → analytics dashboard | `Python` `Streamlit` |
 | 📝 | **[Neural Image Captioning](https://github.com/AhmedHassanGondal/neural-storyteller-image-captioning)** | ResNet50 encoder + LSTM decoder generating image captions | `PyTorch` `NLP` |
 
 </div>
