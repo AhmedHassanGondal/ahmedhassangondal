@@ -172,6 +172,19 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="40" height="40" alt="Snake"/> Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedHassanGondal/AhmedHassanGondal/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedHassanGondal/AhmedHassanGondal/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/AhmedHassanGondal/AhmedHassanGondal/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation"/>
+  </picture>
+</div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40" height="40" alt="Handshake"/> Let's Connect & Collaborate
 
 <div align="center">
